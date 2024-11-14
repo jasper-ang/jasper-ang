@@ -1,5 +1,4 @@
 ## 👋 Hi, I'm Jasper 
-
 ---
 
 I'm a full-stack developer working on AI projects. 
