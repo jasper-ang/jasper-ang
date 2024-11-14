@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jasper (@jasper-ang)
+## 👋 Hi, I'm Jasper 
 I'm a full-stack developer working on AI projects. 
 
 I focus on the application and ultility area while the smart people at Deepmind, BAIR and CSAIL figure out AGI, cause you know, someone’s gotta handle the easy stuff. 😆
