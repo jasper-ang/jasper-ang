@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jasper Ang (@jasper-ang)
+## 👋 Hi, I'm Jasper (@jasper-ang)
 I'm a full-stack developer working on AI projects. 
 
 I focus on the application and ultility area while the smart people at Deepmind, BAIR, CSAIL figure out AGI, cause you know, someone’s gotta handle the easy stuff. 😆
@@ -48,4 +48,4 @@ https://journal-app-two-pi.vercel.app/ < Haven't come out with a proper branding
 - **Twitter/X:** [@JasperZY]([(https://x.com/JasperZY))
 
 ### ⚡ Fun Fact
-- I have as much fun partying at bresh on a wednesday night as I am debugging a JWT cookie problem on CORS!
+I have as much fun partying at bresh on a wednesday night as I am debugging a JWT cookie problem on CORS!
