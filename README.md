@@ -50,7 +50,7 @@ Right now, I'm building a journaling app that tries to “remember” conversati
 ### 📫 How to Reach Me
 - **Email:** [jasperzhiyong.ang@iese.net](mailto:jasperzhiyong.ang@iese.net)
 - **LinkedIn:** [Jasper Z. Ang](https://www.linkedin.com/in/jasper-z-ang/)
-- **Twitter/X:** [@JasperZY]([(https://x.com/JasperZY))
+- **Twitter | X:** [@JasperZY](https://x.com/JasperZY)
 
 ### ⚡ Fun Fact
 I have as much fun partying at bresh on a wednesday night as I am debugging a JWT cookie problem on CORS!
