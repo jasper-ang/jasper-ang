@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jasper (@jasper-ang)
 I'm a full-stack developer working on AI projects. 
 
-I focus on the application and ultility area while the smart people at Deepmind, BAIR, CSAIL figure out AGI, cause you know, someone’s gotta handle the easy stuff. 😆
+I focus on the application and ultility area while the smart people at Deepmind, BAIR and CSAIL figure out AGI, cause you know, someone’s gotta handle the easy stuff. 😆
 
 Right now, I'm building a journaling app that tries to “remember” conversations and keep context over time, so it feels like a real chat buddy.
 https://journal-app-two-pi.vercel.app/ < Haven't come out with a proper branding yet, the product is still in beta testing 
