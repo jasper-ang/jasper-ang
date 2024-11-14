@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Jasper Ang (@jasper-ang)
-I'm a full-stack developer working on AI projects. I focus on the application and ultility area while the smart people at Deepmind 
+I'm a full-stack developer working on AI projects. 
+I focus on the application and ultility area while the smart people at Deepmind, BAIR, CSAIL figure out AGI, cause you know, someone’s gotta handle the easy stuff. 😆
 
 Right now, I'm building a journaling app that tries to “remember” conversations and keep context over time, so it feels like a real chat buddy.
 https://journal-app-two-pi.vercel.app/ < Haven't come out with a proper branding yet, the product is still in beta testing 
@@ -7,14 +8,14 @@ https://journal-app-two-pi.vercel.app/ < Haven't come out with a proper branding
 ---
 
 ### 👀 Interests
-- **LLM Application Layer:** I create tools that use large language models (LLMs) like ChatGPT to make more interactive apps.
+- **LLM Application Layer:** Creating tools with large language models (LLMs) to build more interactive apps.
 - **Multimodal Systems:** Mixing different kinds of inputs—like text, images, and sound—to make AI more versatile.
 - **Contextual Memory:** Working on ways for AI to remember information across different interactions, so it can connect past conversations.
 
 ### 🌱 Currently Learning
 - **Letta MemGPT:** I’m figuring out how to use memory-based GPTs to keep track of long conversations.
 - **Prompt Orchestration:** Creating better prompts (questions or instructions for AI) to keep interactions smooth and meaningful.
-- **Memory Persistant tradeoffs:**: Still figuring out the balance between caching vectors, saving into db, when to do what
+- **Memory Persistant tradeoffs:**: Balancing when to save data in the database or cache it for speed.
 
 ### 💞️ Open to Collaborate On
 - **Multimodal AI Projects:** Projects that combine multiple input types to make AI “smarter.”
