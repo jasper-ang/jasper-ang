@@ -1,7 +1,7 @@
 
-##  Hello 👋 , I'm Jasper 
+###  Hello! 👋 I'm Jasper 
 
-
+---
 
 I'm a full-stack developer working on AI projects. 
 
@@ -21,7 +21,7 @@ Right now, I'm building a journaling app that tries to “remember” conversati
 ### 🌱 Currently Learning
 - **Letta MemGPT:** I’m figuring out how to use memory-based GPTs to keep track of long conversations.
 - **Prompt Orchestration:** Creating better prompts (questions or instructions for AI) to keep interactions smooth and meaningful.
-- **Memory Persistant tradeoffs:**: Balancing when to save data in the database or cache it for speed.
+- **Memory Persistant tradeoffs:** Balancing when to save data in the database or cache it for speed.
 
 ### 💞️ Open to Collaborate On
 - **Multimodal AI Projects:** Projects that combine multiple input types to make AI “smarter.”
