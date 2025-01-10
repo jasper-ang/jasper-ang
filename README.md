@@ -15,7 +15,7 @@ Right now, I'm building a journaling app that tries to “remember” conversati
 
 ### 👀 Interests
 - **LLM Application Layer:** Creating tools with large language models (LLMs) to build more interactive apps.
-- **Multimodal Systems:** Mixing different kinds of inputs—like text, images, and sound—to make AI more versatile.
+- **Multimodal Systems:** Mixing different kinds of inputs like text and voice to make AI more versatile.
 - **Contextual Memory:** Working on ways for AI to remember information across different interactions, so it can connect past conversations.
 
 ### 🌱 Currently Learning
