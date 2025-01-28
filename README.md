@@ -3,7 +3,7 @@
 
 ---
 
-I'm a full-stack developer working on AI projects. 
+I'm a full-stack developer working on ulitity focused AI projects. 
 
 I focus on the application and ultility area while the smart people at Deepmind, BAIR and CSAIL figure out AGI, cause you know, someone’s gotta handle the easy stuff. 😆
 
