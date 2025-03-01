@@ -25,8 +25,8 @@ Right now, I'm building a journaling app that tries to “remember” conversati
 
 ### 💞️ Open to Collaborate On
 - **Multimodal AI Projects:** Projects that combine multiple input types to make AI “smarter.”
-- **LLM Apps:** Building apps that use language models, especially ones that need clever prompts to work well.
-- **Memory Systems:** Collaborating on AI projects that need ways to keep memory across sessions.
+- **LLM Apps:** Building apps that use different SOTA models.
+- **Memory Systems:** Collaborating on AI projects that can roll memory across sessions.
 
 ---
 
