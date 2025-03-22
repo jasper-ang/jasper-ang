@@ -7,9 +7,9 @@ I'm a full-stack developer working on ulitity focused AI projects.
 
 I focus on building the application and ultility area while the smart people at Deepmind, BAIR and CSAIL figure out AGI, cause you know, someone’s gotta handle the easy stuff. 😆
 
-Right now, I'm building a journaling app that tries to “remember” conversations and keep context over time, so it feels like a real chat buddy.
+Right now, I'm building a journaling app that tries to “remember” conversations and keep context over time, so it feels like a real chat buddy, context management is still experimental.
 
-[**Journal App (Beta)**](https://journal-app-two-pi.vercel.app/) — Still working on the branding, and it's currently in beta, so feel free to test it out!
+[**Elora**]([https://journal-app-two-pi.vercel.app/](https://eloraflow.com/)) — A chat journal app that helps you to sort out your thoughts!
 
 ---
 
