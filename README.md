@@ -9,7 +9,7 @@ I focus on building the application and ultility area while the smart people at 
 
 Right now, I'm building a journaling app that tries to “remember” conversations and keep context over time, so it feels like a real chat buddy, context management is still experimental.
 
-[**Elora**](https://eloraflow.com/) — A chat journal app that helps you to sort out your thoughts!!
+[**Elora**](https://eloraflow.com/) — A chat journal app that helps you to sort out your thoughts!
 
 ---
 
