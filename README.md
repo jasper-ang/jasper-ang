@@ -7,9 +7,10 @@ I'm a full-stack developer working on ulitity focused AI projects.
 
 I focus on building the application and ultility area while the smart people at Deepmind, BAIR and CSAIL figure out AGI, cause you know, someone’s gotta handle the easy stuff. 😆
 
-Right now, I'm building a journaling app that tries to “remember” conversations and keep context over time, so it feels like a real chat buddy, context management is still experimental.
+Right now, I'm simulating the conciousness process in AI. So it tries to “remember” conversations the more you use it and grows with you, context management is still experimental.
+Memory stack is just a part of it, there's other components like tactical emphathy, active engagement etc. 
 
-[**Elora**](https://eloraflow.com/) — A chat journal app that helps you to sort out your thoughts!
+[**Elora**](https://eloraflow.com/) — Alpha version
 
 ---
 
